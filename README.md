@@ -35,6 +35,7 @@ In order for the device to be connected to HA, it must not be connected to anoth
 
 * C2
 * A1 Pro
+* S1
 
 (if you have a King Smith treadmill and would like to verify support, please reach out)
 
